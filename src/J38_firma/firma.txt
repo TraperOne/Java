@@ -1,0 +1,2 @@
+Jan;Dobry;6000
+Tomasz;Fajny;5500
